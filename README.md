@@ -30,7 +30,7 @@ The JavaScript library built to inject **randomness** into your projects. What's
 ### Option 2: CDN
 
 ```
-https://cdn.jsdelivr.net/gh/gyanprabhat7/reallyrandom/reallyrandom.js
+https://cdn.jsdelivr.net/gh/gyanprabhat7/reallyrandom.jsx/reallyrandom.js
 ```
 
 ## Usage
