@@ -1,7 +1,7 @@
 **reallyrandom.js - The Ultimate Chaos Library 🌀**
 ===================================================
 
-Welcome to **reallyrandom.js**, the JavaScript library built to inject **randomness, fun, and mayhem** into your projects! Whether you're pranking your friends or simply embracing chaos, this library has everything to leave developers scratching their heads. Beware: **Unpredictability ahead**. 🌀
+the JavaScript library built to inject **randomness** into your projects. What's the use? there's none. 
 
 * * * * *
 
