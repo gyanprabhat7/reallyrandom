@@ -1,4 +1,4 @@
-**reallyrandom.js - The Ultimate Chaos Library 🌀**
+**reallyrandom.js - The Ultimate Chaos Library **
 ===================================================
 
 the JavaScript library built to inject **randomness** into your projects. What's the use? there's none. 
@@ -34,11 +34,16 @@ html
 
 Copy code
 
-`<script src="reallyrandom.js"></script>`
+```base
+<script src="reallyrandom.js"></script>
+```
 
-### **Option 2: CDN (Coming Soon)**
+### **Option 2: CDN **
 
-Stay tuned!
+```bash
+https://cdn.jsdelivr.net/gh/gyanprabhat7/reallyrandom/reallyrandom.js
+
+```
 
 * * * * *
 
